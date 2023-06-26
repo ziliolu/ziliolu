@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Luiza!
+### About me 
+- 👋 Hi there, I'm Luiza! My nickname in [42 Porto's] intra (https://www.42porto.com/) is `lpicoli-`
+-  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true)
 
