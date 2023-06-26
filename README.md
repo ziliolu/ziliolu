@@ -5,6 +5,7 @@
 - 🗣️ I love learning languages, right now I'm studying `german` and `french`
 - 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`, I would love to work with `Image Processing`
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true)
 
 <a href = "mailto:luzilio.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
