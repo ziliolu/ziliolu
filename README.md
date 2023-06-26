@@ -1,6 +1,8 @@
 ### About me 
-- 👋 Hi there, I'm Luiza! My nickname in [42 Porto's] intra (https://www.42porto.com/) is `lpicoli-`
--  
+- 👋 Hi there, I'm Luiza! My nickname in [42 Porto](https://www.42porto.com/) is `lpicoli-`
+- 🇧🇷 🇵🇹 I'm brazilian, currently living in Portugal for my studies
+- 📚 I'm a `programming student` studying in [42 Porto](https://www.42porto.com/). I'm finishing rank #3 of Common Core.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true)
 
