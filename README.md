@@ -1,10 +1,10 @@
 ### About me 
 - 👋 Hi there, I'm Luiza! My nickname in [42 School](https://www.42network.org/) is `lpicoli-`
-- 🇧🇷 I'm brazilian, currently living in Portugal for my studies
-- 📚 I'm a `programming student` studying in [42 Porto](https://www.42porto.com/). I'm around half of Common Core
-- 🗣️ I love learning languages, right now I'm studying `german` and `french`
-- 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`, I would love to work with `Image Processing`
-- 👩‍💻 Currently working full-time on [Minishell project](https://github.com/ziliolu/42_minishell)
+- 🇧🇷 I'm brazilian, currently living in Portugal for my studies.
+- 📚 I'm a `software development student` in [42 Porto](https://www.42porto.com/). I'm around half of Common Core course. 
+- 🗣️ I love learning languages, right now I'm studying `german` and `french`.
+- 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`, I would love to work with `Image Processing`.
+- 👩‍💻 Currently working full-time on [Minishell project](https://github.com/ziliolu/42_minishell) based on `C language`.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true)
