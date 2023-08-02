@@ -3,7 +3,7 @@
 - 🇧🇷 I'm brazilian, currently living in Portugal for my studies.
 - 📚 I'm a `software development student` in [42 Porto](https://www.42porto.com/). I'm around half of Common Core course. 
 - 🗣️ I love learning languages, right now I'm studying `german` and `french`.
-- 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`, I would love to work with `Image Processing`.
+- 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`, I'm looking for opportunities to work with `Image Processing`.
 - 👩‍💻 Currently working full-time on [Minishell project](https://github.com/ziliolu/42_minishell) based on `C language`.
 
 
