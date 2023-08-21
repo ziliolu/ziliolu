@@ -5,8 +5,6 @@
 - 🗣️ I love learning languages, right now I'm studying `german` and `french`
 - 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`
 - Currently focusing my studies in `C`, `C++` and `Python`
-- 
-![Snake animation](https://github.com/ziliolu/ziliolu/blob/output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true)
 
