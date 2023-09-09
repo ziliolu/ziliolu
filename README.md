@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Luiza! 
 
-- 🇧🇷🇵🇹 I'm brazilian, currently living in Portugal for my studies
+- 🇧🇷 🇵🇹 I'm brazilian, currently living in Portugal for my studies
 - 📚 I'm a `software development student` in [42 Porto](https://www.42porto.com/). My nickname there is `lpicoli-`
 - 🗣️ I love learning languages, right now I'm studying `german` and `french`
 - 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`
