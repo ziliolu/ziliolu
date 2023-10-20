@@ -24,6 +24,8 @@
 [![get_next_line](https://github.com/ziliolu/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/ziliolu/42_get_next_line)
 [![ft_printf](https://github.com/ziliolu/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/ziliolu/42_printf)
 
+### rank 2
+[![minitalk](https://github.com/ziliolu/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/ziliolu/42_minitalk)
 
 ## Skills
 <p align="left">
