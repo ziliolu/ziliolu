@@ -20,6 +20,7 @@
 
 ## 42 Curriculum - Projects 
 [![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/libftm.png)](https://github.com/ziliolu/42_libft)
+[![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/ziliolu/42_get_next_line)
 
 
 ## Skills
