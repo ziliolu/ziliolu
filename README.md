@@ -19,7 +19,7 @@
 </table>
 
 ## 42 School Projects
-### rank 1 + 2
+### rank 1 & 2
 [![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/libftm.png)](https://github.com/ziliolu/42_libft)
 [![get_next_line](https://github.com/ziliolu/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/ziliolu/42_get_next_line)
 [![ft_printf](https://github.com/ziliolu/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/ziliolu/42_printf)
@@ -27,7 +27,7 @@
 [![push_swap](https://github.com/ziliolu/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/ziliolu/42_push_swap)
 [![so_long](https://github.com/ziliolu/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/ziliolu/42_so_long)
 
-### rank 3 + 4
+### rank 3 & 4
 [![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/ziliolu/42_minishell)
 [![philosophers](https://github.com/ziliolu/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/ziliolu/42_philosophers)
 [![netpractice](https://github.com/ziliolu/42-project-badges/blob/main/badges/netpracticee.png)](https://github.com/ziliolu/42_netpractice)
