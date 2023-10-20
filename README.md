@@ -7,8 +7,9 @@
 - Focusing my studies in `C`, `C++` and `Python`
 - 💻 Check out my latest projects [Minishell](https://github.com/ziliolu/42_minishell) and [Cub3D](https://github.com/ziliolu/42_cub3D), both written in `C`
 
-![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true)
+![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1)
+
 
 <table style="border: none;">
   <tr>
