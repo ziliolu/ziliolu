@@ -27,7 +27,7 @@
 ### rank 2
 [![minitalk](https://github.com/ziliolu/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/ziliolu/42_minitalk)
 [![push_swap](https://github.com/ziliolu/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/ziliolu/42_push_swap)
-
+[![so_long](https://github.com/ziliolu/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/ziliolu/42_so_long)
 
 ## Skills
 <p align="left">
