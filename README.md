@@ -19,19 +19,31 @@
 </table>
 
 ## 42 School Projects
-### rank 1 & 2
+### rank 1
 [![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/libftm.png)](https://github.com/ziliolu/42_libft)
 [![get_next_line](https://github.com/ziliolu/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/ziliolu/42_get_next_line)
 [![ft_printf](https://github.com/ziliolu/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/ziliolu/42_printf)
+
+## RANK 2
 [![minitalk](https://github.com/ziliolu/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/ziliolu/42_minitalk)
 [![push_swap](https://github.com/ziliolu/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/ziliolu/42_push_swap)
 [![so_long](https://github.com/ziliolu/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/ziliolu/42_so_long)
 
-### rank 3 & 4
+### rank 3
 [![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/ziliolu/42_minishell)
 [![philosophers](https://github.com/ziliolu/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/ziliolu/42_philosophers)
+
+## rank 4
 [![netpractice](https://github.com/ziliolu/42-project-badges/blob/main/badges/netpracticee.png)](https://github.com/ziliolu/42_netpractice)
 [![cub3D](https://github.com/ziliolu/42-project-badges/blob/main/badges/cub3de.png)](https://github.com/ziliolu/42_cub3D)
+
+## 42 School Projects
+
+| Rank 1 | Rank 2 | Rank 3 | Rank 4 |
+| ------ | ------ | ------ | ------ |
+| [![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/libftm.png)](https://github.com/ziliolu/42_libft) | [![minitalk](https://github.com/ziliolu/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/ziliolu/42_minitalk) | [![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/ziliolu/42_minishell) | [![netpractice](https://github.com/ziliolu/42-project-badges/blob/main/badges/netpracticee.png)](https://github.com/ziliolu/42_netpractice) |
+| [![get_next_line](https://github.com/ziliolu/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/ziliolu/42_get_next_line) | [![push_swap](https://github.com/ziliolu/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/ziliolu/42_push_swap) | [![philosophers](https://github.com/ziliolu/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/ziliolu/42_philosophers) | [![cub3D](https://github.com/ziliolu/42-project-badges/blob/main/badges/cub3de.png)](https://github.com/ziliolu/42_cub3D) |
+| [![ft_printf](https://github.com/ziliolu/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/ziliolu/42_printf) | [![so_long](https://github.com/ziliolu/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/ziliolu/42_so_long) | | |
 
 ## Skills
 <p align="left">
