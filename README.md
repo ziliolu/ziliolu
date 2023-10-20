@@ -29,6 +29,10 @@
 [![push_swap](https://github.com/ziliolu/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/ziliolu/42_push_swap)
 [![so_long](https://github.com/ziliolu/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/ziliolu/42_so_long)
 
+### rank 3
+[![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/ziliolu/42_minishell)
+[![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/ziliolu/42_philosophers)
+
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
