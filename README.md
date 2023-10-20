@@ -19,21 +19,17 @@
 </table>
 
 ## 42 School Projects
-### rank 1
+### rank 1 + 2
 [![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/libftm.png)](https://github.com/ziliolu/42_libft)
 [![get_next_line](https://github.com/ziliolu/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/ziliolu/42_get_next_line)
 [![ft_printf](https://github.com/ziliolu/42-project-badges/blob/main/badges/ft_printfe.png)](https://github.com/ziliolu/42_printf)
-
-### rank 2
 [![minitalk](https://github.com/ziliolu/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/ziliolu/42_minitalk)
 [![push_swap](https://github.com/ziliolu/42-project-badges/blob/main/badges/push_swape.png)](https://github.com/ziliolu/42_push_swap)
 [![so_long](https://github.com/ziliolu/42-project-badges/blob/main/badges/so_longe.png)](https://github.com/ziliolu/42_so_long)
 
-### rank 3
+### rank 3 + 4
 [![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/ziliolu/42_minishell)
 [![philosophers](https://github.com/ziliolu/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/ziliolu/42_philosophers)
-
-### rank 4
 [![netpractice](https://github.com/ziliolu/42-project-badges/blob/main/badges/netpracticee.png)](https://github.com/ziliolu/42_netpractice)
 [![cub3D](https://github.com/ziliolu/42-project-badges/blob/main/badges/cub3de.png)](https://github.com/ziliolu/42_cub3D)
 
