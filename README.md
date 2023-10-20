@@ -31,7 +31,11 @@
 
 ### rank 3
 [![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/minishelle.png)](https://github.com/ziliolu/42_minishell)
-[![minishell](https://github.com/ziliolu/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/ziliolu/42_philosophers)
+[![philosophers](https://github.com/ziliolu/42-project-badges/blob/main/badges/philosopherse.png)](https://github.com/ziliolu/42_philosophers)
+
+### rank 4
+[![netpractice](https://github.com/ziliolu/42-project-badges/blob/main/badges/netpracticee.png)](https://github.com/ziliolu/42_netpractice)
+[![cub3D](https://github.com/ziliolu/42-project-badges/blob/main/badges/cub3de.png)](https://github.com/ziliolu/42_cub3D)
 
 ## Skills
 <p align="left">
