@@ -18,7 +18,8 @@
   </tr>
 </table>
 
-## 42 Curriculum - Projects 
+## 42 School Projects
+#### rank 1
 [![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/libftm.png)](https://github.com/ziliolu/42_libft)
 [![libft](https://github.com/ziliolu/42-project-badges/blob/main/badges/get_next_linem.png)](https://github.com/ziliolu/42_get_next_line)
 
