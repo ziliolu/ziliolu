@@ -10,14 +10,16 @@
 ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true)
 
+<table style="border: none;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1" alt="GitHub Top Langs" />
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1" alt="GitHub Top Langs" style="border: none;" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true" alt="Anurag's GitHub stats" />
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true" alt="Anurag's GitHub stats" style="border: none;" />
     </td>
   </tr>
+</table>
 
 
 <a href = "mailto:luzilio.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
