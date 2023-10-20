@@ -1,4 +1,4 @@
-ck out my latest projects Minishell and Cub3D, both written in C### 👋 Hi there, I'm Luiza! 
+### 👋 Hi there, I'm Luiza! 
 
 - 🇧🇷 🇵🇹 I'm brazilian, currently living in Portugal for my studies
 - 📚 I'm a `software development student` in [42 Porto](https://www.42porto.com/). My nickname there is `lpicoli-`
