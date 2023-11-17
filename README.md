@@ -17,6 +17,8 @@
   </tr>
 </table>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ziliolu)](https://git.io/streak-stats)
+
 ## 42 School Projects
 
 | Rank 1 | Rank 2 | Rank 3 | Rank 4 |
