@@ -12,12 +12,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1" alt="GitHub Top Langs" style="border: none;" />
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ziliolu&theme=dracula&show_icons=true" alt="Anurag's GitHub stats" style="border: none;" />
+      [![GitHub Streak](https://streak-stats.demolab.com?user=ziliolu&theme=dracula&exclude_days=Sun&card_width=493)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ziliolu&theme=dracula&exclude_days=Sun&card_width=493)](https://git.io/streak-stats)
 
 ## 42 School Projects
 
