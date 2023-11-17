@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ziliolu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ziliolu&theme=dracula&exclude_days=Sun&card_width=493)](https://git.io/streak-stats)
 
 ## 42 School Projects
 
