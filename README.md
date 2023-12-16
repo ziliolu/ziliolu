@@ -28,7 +28,7 @@
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,cmake,hack,shell,html,css&langs_count=6&hide_border=True" alt="GitHub Top Langs" style="border: none;" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,git,github,bash,linux,vim,vscode" />
   </a>
 </p>
 
