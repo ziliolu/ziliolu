@@ -9,7 +9,7 @@
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziliolu&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True" alt="GitHub Top Langs" style="border: none;" />
     </td>
     <td style="border: none;">
       <img src="https://streak-stats.demolab.com?user=ziliolu&theme=dracula&exclude_days=Sun"/>
