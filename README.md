@@ -28,7 +28,7 @@
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,java,html,css,git,github,bash,linux,vim,vscode" />
+<img src="https://skillicons.dev/icons?i=code,java,c%2B%2B,html,css,git,github,bash,linux,vim,vscode" />
   </a>
 </p>
 
