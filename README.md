@@ -5,7 +5,7 @@
 - 📚 `Software Development student` at [42 Porto](https://www.42porto.com/). My nickname there is `lpicoli-`
 - 🗣️ I love learning languages, right now I'm studying `german` and `french`
 - 👀 My main interests in tech area are in the fields of `Mobility` and `Recycling`
-- Currently studying `C`,`C++` and `C#`
+- Currently studying `C++` and `C#`
 
 <table style="border: none;">
   <tr>
