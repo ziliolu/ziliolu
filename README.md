@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Luiza! 
 
-- 🇧🇷 🇵🇹 I'm brazilian, currently living in Portugal for my studies
+- 🇧🇷 I'm brazilian, currently living in Portugal for my studies
 - 💻 `Junior Software Developer` at `NTT Data Europe & Latam` within the `.NET Community` 
 - 📚 `Software Development student` at [42 Porto](https://www.42porto.com/). My nickname there is `lpicoli-`
 - 🗣️ I love learning languages, right now I'm studying `german` and `french`
